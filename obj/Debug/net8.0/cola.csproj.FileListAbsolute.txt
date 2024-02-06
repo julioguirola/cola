@@ -1,0 +1,14 @@
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.GeneratedMSBuildEditorConfig.editorconfig
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.AssemblyInfoInputs.cache
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.AssemblyInfo.cs
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.csproj.CoreCompileInputs.cache
+/home/guirola/Documents/2.1/ED/cola/bin/Debug/net8.0/cola
+/home/guirola/Documents/2.1/ED/cola/bin/Debug/net8.0/cola.deps.json
+/home/guirola/Documents/2.1/ED/cola/bin/Debug/net8.0/cola.runtimeconfig.json
+/home/guirola/Documents/2.1/ED/cola/bin/Debug/net8.0/cola.dll
+/home/guirola/Documents/2.1/ED/cola/bin/Debug/net8.0/cola.pdb
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.dll
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/refint/cola.dll
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.pdb
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/cola.genruntimeconfig.cache
+/home/guirola/Documents/2.1/ED/cola/obj/Debug/net8.0/ref/cola.dll
